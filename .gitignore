@@ -1,0 +1,26 @@
+# Dados SVN (110 GB)
+/cod_svn/
+cod_seed.pgc
+
+# Runtime / temporários
+*.log
+*.jsonl
+rascunho.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Env (criado manualmente em cada ambiente)
+.env
+cod_migration/.env
+
+# Planejamento / rascunhos
+cod_migration/xrd_loader_plan.md
+
+# Scripts legados
+xrd_adapted.py
+xrd_backup.py
