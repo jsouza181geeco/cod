@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+psycopg2-binary
+python-dotenv
+matplotlib
+pytest
